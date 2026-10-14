@@ -16,12 +16,17 @@ Accessible events are not just a compliance issue—they improve participation, 
 - [Disabled-Attendee-Corporate-Event-Lifecycle](Disabled-Attendee-Corporate-Event-Lifecycle.md)  
   A fuller lifecycle guide that follows the attendee journey from awareness and registration through participation, feedback, and continuous improvement.
 
+- [AGENTS.md](AGENTS.md)
+  Operating guidance for AI agents supporting the planning, promotion, registration, production, delivery, and evaluation of events.
+
 - [LICENSE](LICENSE)  
   Licensing information for this repository.
 
 ## Recommended use
 
 Use the short checklist when you need a quick event-access review or planning prompt. Use the lifecycle guide when you want a deeper, attendee-centered view of what good accessibility looks like across the whole event journey.
+
+When using AI to plan or deliver an event, follow [AGENTS.md](AGENTS.md) alongside both event guides. It defines human approval points, privacy safeguards, escalation rules, and checks for AI-supported work.
 
 ## Core themes
 
