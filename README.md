@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Corporate Events"
 version: "2.1"
-author: "Double FW Ltd"
+author: "Gareth Ford Williams and Double FW Ltd"
 date: "2026-11-01"
 license: "MIT"
 language: "en-GB"
