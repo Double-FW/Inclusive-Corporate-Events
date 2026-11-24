@@ -1,0 +1,25 @@
+{
+  "source_repository": "Double-FW/Inclusive-Corporate-Events",
+  "destination_dataset": "GarethFW/Inclusive_Corporate_Events",
+  "dataset_version": "1.0.0",
+  "document_files": [
+    "AGENTS.md",
+    "README.md",
+    "Disabled-Attendee-Corporate-Event-Lifecycle.md",
+    "Corporate Event Accessibility Guide.md",
+    "Inclusive_Live_Event_Venue_and_Delivery_Checklist.md"
+  ],
+  "chunk_files": [
+    "Disabled-Attendee-Corporate-Event-Lifecycle.md",
+    "Corporate Event Accessibility Guide.md",
+    "Inclusive_Live_Event_Venue_and_Delivery_Checklist.md"
+  ],
+  "source_files": [
+    "AGENTS.md",
+    "README.md",
+    "Disabled-Attendee-Corporate-Event-Lifecycle.md",
+    "Corporate Event Accessibility Guide.md",
+    "Inclusive_Live_Event_Venue_and_Delivery_Checklist.md",
+    "LICENSE"
+  ]
+}
